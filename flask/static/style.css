@@ -1,0 +1,42 @@
+h1{
+    color:rgb(65, 53, 44)
+}
+#CatPosts{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#Logo{
+    width: 50px;
+    margin-left: 40px;
+}
+
+.CatCard{
+    padding: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+    border-radius: 5%;
+}
+
+.CatImg{
+    width: 20rem;
+    border-radius: 5%;
+}
+
+#Nav{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+#Nav h1{
+    margin-left: 20px;
+}
+
+#data1{
+    height: 20px;
+    margin-left: 20px;
+}
